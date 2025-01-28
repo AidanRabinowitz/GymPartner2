@@ -1,0 +1,5 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.sourceDirectory": "C:/Users/aidan/codeprojects/apps/GymBud/hinge-dating/node_modules/expo-modules-core/android"
+}
